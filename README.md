@@ -1,5 +1,5 @@
 # TodoList
-<h2>A Web App for all you things<h2>
+<h2>A Web App for all you things</h2>
   And a simpler UI
   With mongoDB
 
